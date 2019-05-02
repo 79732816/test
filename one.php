@@ -1,3 +1,3 @@
 <?php
-echo"hello!one";
+echo"hello!你好！世界各地的朋友，很高兴能够认识你们！";
 ?>
